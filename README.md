@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Bakery — Landing Page
+
+A responsive landing page layout for the **Creative Bakery** project.
+
+## Features
+
+-  Clean and scalable HTML structure using **BEM** methodology  
+-  Styles written with **Sass** preprocessor  
+-  Simple **JavaScript** theme switcher (light/dark mode)  
+-  Fully responsive design for all screen sizes
+
+## Demo Link
+
+[View Live Demo](https://mykytalandar.github.io/creativeBakery-landing/)
