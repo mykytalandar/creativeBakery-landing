@@ -1,0 +1,2 @@
+var e=document.body,t=document.querySelector(".theme-switcher"),o=document.querySelector(".theme-name"),l=document.querySelectorAll(".hero-block__button");t.addEventListener("click",function(){var c=e.classList.toggle("page__body--theme--blue");o.textContent=c?"Blue theme":"Pink theme",t.classList.toggle("blue",c),l.forEach(function(e){e.classList.contains("hero-block__button--on-desktop")?e.classList.toggle("hero-block__button--on-desktop--theme-blue"):e.classList.toggle("hero-block__button--theme-blue")})});
+//# sourceMappingURL=index.5dc0b7a6.js.map
