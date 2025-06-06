@@ -12,3 +12,7 @@ A responsive landing page layout for the **Creative Bakery** project.
 ## Demo Link
 
 [View Live Demo](https://mykytalandar.github.io/creativeBakery-landing/)
+
+## Figma Design
+
+[Design](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342-1117&p=f)
